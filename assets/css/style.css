@@ -1,0 +1,63 @@
+/* Style for Meet & Coffee */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Oswald', sans-serif;*/   
+}
+
+ul svg {
+    fill: white;
+    width: 50px;
+}
+
+
+nav ul {
+    list-style-type: none;
+}
+
+.list-menu li {
+    display: inline-block;
+    padding: 10px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.list-menu a {
+    text-decoration: none;
+    color: white;
+
+}
+
+nav {
+    background-color: black;
+
+}
+
+footer {
+
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 20px
+}
+
+i {
+    font-size: 30px;
+}
+
+.event {
+    text-align: justify;
+    padding: 2rem 3rem;
+}
+
+.event img {
+    margin: auto;
+    padding: 5rem;
+}
+
+#Eventos-Anteriores {
+    text-align: center;
+}
